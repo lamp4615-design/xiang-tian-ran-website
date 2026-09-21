@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delicate-kangaroo-84fb4a.netlify.app/sitemap.xml
